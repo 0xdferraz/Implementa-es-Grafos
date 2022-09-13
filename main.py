@@ -137,6 +137,7 @@ class Grafo:
 
   def _unir_ciclos(self, c_1, c_2):
     # Se um dos ciclos for vazio apenas retorna o nao vazio
+    print("Cadeias:", c_1, c_2) # Comentar caso não queira que o algoritmo imprima as cadeias durante o processo de uniao ate a formacao da cadeia euleriana final.
     if c_1 == []:
       c_3 = c_2
 
