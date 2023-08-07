@@ -1,6 +1,6 @@
 # Implementação Grafo Não Direcionado
 
-Esse projeto em Python apresenta a implementação de um grafo não direcionado utilizando listas de adjacência. Além disso, ele contém funções para realizar operações com o grafo, como adicionar e remover vértices e arestas, verificar a existência de ciclo euleriano e encontrar um ciclo euleriano no grafo. Essa implementação foi desenvolvida como parte do estudo realizado na disciplina de Grafos e Algoritmos Computacionais.
+Esse projeto em Python apresenta a implementação de Grafos Não Direcionados utilizando listas de adjacência. Além disso, ele contém funções para realizar operações com o grafo, como adicionar e remover vértices e arestas, verificar a existência de ciclo euleriano e encontrar um ciclo euleriano no grafo. Essa implementação foi desenvolvida como parte do estudo realizado na disciplina de Grafos e Algoritmos Computacionais.
 
 ## Estruturas de Dados
 
